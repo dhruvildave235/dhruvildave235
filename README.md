@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring AI & Software Developer | Passionate about Machine Learning & Intelligent Systems | Problem Solver & Innovator</h3>
                                                                                                                                           
 # 💫 About Me:
-🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>📫 How to reach me : dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
+🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG,Gen-AI<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>📫 How to reach me : dhruvildave235@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvildave235&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvildave235" /> </p>
 
