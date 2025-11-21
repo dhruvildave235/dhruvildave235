@@ -36,6 +36,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruvildave235&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy-api.vercel.app/?username=dhruvildave235&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvildave235&icon=2&color=1)](https://visitcount.itsvg.in)
