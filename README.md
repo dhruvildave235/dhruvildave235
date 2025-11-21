@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvil_Dave </h1>
 <h3 align="center">Aspiring AI & Software Developer | Passionate about Machine Learning & Intelligent Systems | Problem Solver & Innovator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvildave235&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvildave235" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvildave235&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvildave235" /> </p>
                                                                                                                                           
 # 💫 About Me:
 🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG,Gen-AI<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>📫 How to reach me : dhruvildave44@gmail.com<br><br>⚡ Fun fact I Think I Can Easily Lead Team as a Family.
@@ -34,12 +34,9 @@
 
 
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=dhruvildave235&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy-api.vercel.app/?username=dhruvildave235&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4" />
-</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhruvildave235&icon=2&color=1)](https://visitcount.itsvg.in)
