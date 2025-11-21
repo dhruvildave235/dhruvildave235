@@ -4,7 +4,7 @@
 <br/>
 <h1 align="center">Hi 👋, I'm Dhruvil_Dave </h1>
 <h3 align="center">Aspiring AI & Software Developer | Passionate about Machine Learning & Intelligent Systems | Problem Solver & Innovator</h3>
-[![](https://visitcount.itsvg.in/api?id=dhruvildave235&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
                                                                                                                                           
 # 💫 About Me:
