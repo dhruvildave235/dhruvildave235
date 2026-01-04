@@ -2,7 +2,7 @@
   <img src="https://github.com/dhruvildave235/dhruvildave235/blob/main/dhruvil_dave1.png" />
 </p>
 <br/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhruvil_Dave </h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhruvil_Dave </h1>
 <h3 align="center">Aspiring AI & Software Developer | Passionate about Machine Learning & Intelligent Systems | Problem Solver & Innovator</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvildave235&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvildave235" /> </p>
