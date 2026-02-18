@@ -34,7 +34,7 @@
 
 
 
-
+# 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhruvildave235&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
 
 
