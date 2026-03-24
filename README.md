@@ -12,10 +12,17 @@
 
 
 ## 📬 How to Reach Me
-📫 **Email:** dhruvildave44@gmail.com  
-
+📫 **Email:** dhruvildave44@gmail.com 
 
 ---
+# Publications
+## Title: FedRS: Federated Learning-based Remote Sensing Image Classification in Telecommunication Nodes
+Conference: ICIPCN 2026
+Publisher: IEEE
+DOI: https://doi.org/10.1109/ICIPCN67432.2026.11438568
+
+First Author. Presented at IEEE ICIPCN 2026 on 27 January 2026. The paper introduces FedRS, a Federated Learning-based framework for privacy-preserving remote sensing image classification across distributed telecommunication nodes.
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-dave-037a0a326)
