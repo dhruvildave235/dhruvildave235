@@ -24,7 +24,7 @@ DOI: https://doi.org/10.1109/ICIPCN67432.2026.11438568
 First Author. Presented at IEEE ICIPCN 2026 on 27 January 2026. The paper introduces FedRS, a Federated Learning-based framework for privacy-preserving remote sensing image classification across distributed telecommunication nodes.
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-dave-037a0a326)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvildave235@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/dhruvildave235)
