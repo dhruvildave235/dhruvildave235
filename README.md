@@ -15,8 +15,8 @@
 📫 **Email:** dhruvildave44@gmail.com 
 
 ---
-# Publications
-## Title: FedRS: Federated Learning-based Remote Sensing Image Classification in Telecommunication Nodes
+# ✒️Publications
+## FedRS: Federated Learning-based Remote Sensing Image Classification in Telecommunication Nodes
 Conference: ICIPCN 2026
 Publisher: IEEE
 DOI: https://doi.org/10.1109/ICIPCN67432.2026.11438568
