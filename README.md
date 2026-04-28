@@ -8,10 +8,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvildave235&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvildave235" /> </p>
                                                                                                                                           
 # 💫 About Me:
-🔭 I’m currently working on AI,ML,DL<br><br>🔭 I’m currently working on - NLP<br><br>🌱 I’m currently learning Tensorflow,Scikit-learn,RAG,Gen-AI<br><br>👨‍💻 All of my projects are available at https://github.com/dhruvildave235<br><br>⚡ **Fun Fact:** I believe I can lead a team like a family.
+
+🚀 Passionate about **AI, Machine Learning, Deep Learning, and NLP**  
+
+🔭 Currently building projects in **NLP & Generative AI**  
+
+🌱 Learning and exploring **TensorFlow, Scikit-learn, RAG systems, and LLMs**  
+
+👨‍💻 Check out my work:  
+👉 https://github.com/dhruvildave235  
+
+⚡ Fun Fact: I believe strong teams are built on collaboration, trust, and shared growth.
 
 
-## 📬 How to Reach Me
+##  How to Reach Me
 📫 **Email:** dhruvildave44@gmail.com 
 
 ---
@@ -25,6 +35,8 @@ First Author. Presented at IEEE ICIPCN 2026 on 27 January 2026. The paper introd
 
 
 # 🌐 Socials
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-FFFFFF?logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=OsL_aNAAAAAJ&hl=en)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Dhruvil_Dave)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvil-dave-037a0a326)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvildave235@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/dhruvildave235)
