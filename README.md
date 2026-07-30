@@ -54,7 +54,7 @@ methodology with independent, production-style project development.
 ---
 # 💼 Experience
 ## Summer Research Intern, Speech Research Laboratory, Dhirubhai Ambani University (DAU, formerly DA-IICT)
-📍 Gandhinagar, India • 🗓️ May – June 2026
+📍 Gandhinagar, India • 🗓️ May – July 2026
 
 **Research Domain - Federated Learning for Low-Resource Multilingual Automatic Speech Recognition (ASR)**
 
