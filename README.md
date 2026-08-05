@@ -40,7 +40,7 @@
 dhruvil = {
     "name"       : "Dhruvil Dave",
     "degree"     : "B.Tech Computer Science & Engineering @ LDRP Institute of Technology & Research (Expected 2027)",
-    "role"       : "Summer Research Intern — Speech Research Laboratory, Dhirubhai Ambani University (DAU, formerly DA-IICT)",
+    "role"       : "Research Intern (Former) — Speech Research Laboratory, Dhirubhai Ambani University (DAU, formerly DA-IICT)",
     "research"   : ["IEEE ICIPCN 2026 (First Author)", "Federated Learning for Low-Resource Multilingual ASR"],
     "domains"    : ["Machine & Deep Learning", "Large Language Models (LLMs)", "Speech AI", "Federated Learning", "RAG Systems"],
     "building"   : "Scalable · Interpretable · Memory-efficient AI for real-world impact",
