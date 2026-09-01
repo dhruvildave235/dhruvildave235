@@ -64,7 +64,7 @@ methodology with independent, production-style project development.
 - Developed a confidence-based cross-lingual inference mechanism achieving **100% routing accuracy** without a Language Identification (LID) model.
 - Achieved **8.9% WER** on English with only **80–100 labeled samples per language**, highlighting efficient low-resource learning.
 - Annotated multilingual speech datasets with **time-aligned transcripts** for model training, validation, and benchmarking.
-- Published and presented the work as **First Author** at **IEEE ICIPCN 2026**.
+
 
 
 ---
